@@ -1,3 +1,8 @@
+![start chat](https://github.com/MohammedMoataz/Chatbot/assets/81831838/3c1fa6e4-6f20-4e7c-88d7-84239f9d5aa4)
+![reply](https://github.com/MohammedMoataz/Chatbot/assets/81831838/6b42ba8d-f942-4722-bdba-e5adc8c16f7c)
+![end chat](https://github.com/MohammedMoataz/Chatbot/assets/81831838/c4b64cb8-23a8-47ae-a0eb-fb295286791f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
