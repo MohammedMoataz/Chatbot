@@ -6,6 +6,8 @@ FROM node:19.6.0-alpine3.17
 
 WORKDIR /app
 
+# RUN mkdir data
+
 COPY package*.json .
 
 RUN npm install

@@ -38,6 +38,8 @@ export const handleMessageSubmit = (chatbotStates, msg) => {
         )
 
     let res = keywords.map(checkKeyword)[0][0]
+    console.log({ keywords })
+    console.log({ res })
 
     if (res.length === 0) {
         chatbotStates.messages.push({
